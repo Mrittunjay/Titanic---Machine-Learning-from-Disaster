@@ -31,5 +31,9 @@ Confusion Matrix:
  [ 7 28]]
 
 
-
+TAKE-AWAYS FROM THIS PROJECT:
+This project gave hands-on experience on several important aspets of data science and machine learning:
+1. Data exploration and visualization: Used matplotlib and seaborn to explore the data and visualize the relationship between features.
+2. Data preprocessing: The dataset had some missing data catagorical features, so needed to handle common issues regarding those in ML model training.
+3. Binary classification: Applied various algorithms for optimized inference such as logistic regression, random forests, neural networks etc. 
 
